@@ -1,0 +1,5 @@
+timer to repeat action every 5 second
+
+scrapes cheapest price from stubhub
+
+prints when you have a price cheaper
