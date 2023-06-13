@@ -1,4 +1,0 @@
-import webbot
-
-
-print("hey")
