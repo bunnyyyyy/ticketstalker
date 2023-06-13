@@ -9,10 +9,24 @@ from selenium.webdriver.support.ui import WebDriverWait
 import random
 import time
 
+proxy = "124.240.187.80:82"
+
+webdriver.DesiredCapabilities.CHROME['proxy'] = {
+   "httpProxy":proxy,
+   "ftpProxy":proxy,
+   "sslProxy":proxy,
+   "noProxy":None,
+   "proxyType":"MANUAL",
+   "class":"org.openqa.selenium.Proxy",
+   "autodetect":False
+}
+
 
 driver = uc.Chrome()
 
-driver.get("https://seatgeek.com/taylor-swift-with-haim-and-gracie-abrams-tickets/santa-clara-california-levi-s-stadium-2023-07-28-6-30-pm/concert/5862048")
+driver.get("https://nowsecure.nl")
+
+# driver.get("https://seatgeek.com/taylor-swift-with-haim-and-gracie-abrams-tickets/santa-clara-california-levi-s-stadium-2023-07-28-6-30-pm/concert/5862048")
 
 time.sleep(10)
 
