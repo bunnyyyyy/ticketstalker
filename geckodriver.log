@@ -1,0 +1,61 @@
+1687569031004	geckodriver	INFO	Listening on 127.0.0.1:56915
+1687569031345	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lj/hz6wjd_s0cqclv02cy81gqxc0000gn/T/rust_mozprofileejahnH"
+1687569032223	Marionette	INFO	Marionette enabled
+1687569032357	Marionette	INFO	Listening on port 56923
+Read port: 56923
+WebDriver BiDi listening on ws://127.0.0.1:56916
+1687569032740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lj/hz6wjd_s0cqclv02cy81gqxc0000gn/T/rust_mozprofileejahnH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56916/devtools/browser/60aa540e-2ada-4c4e-b823-1605eb993379
+JavaScript error: https://seatgeekassets.com/seatgeek/_next/static/chunks/framework-0657cf0bbe2d78c2.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://seatgeekassets.com/seatgeek/_next/static/chunks/framework-0657cf0bbe2d78c2.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://seatgeekassets.com/seatgeek/_next/static/chunks/framework-0657cf0bbe2d78c2.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://seatgeekassets.com/seatgeek/_next/static/chunks/framework-0657cf0bbe2d78c2.js, line 9: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://seatgeekassets.com/seatgeek/_next/static/chunks/framework-0657cf0bbe2d78c2.js, line 9: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1687569077982	geckodriver	INFO	Listening on 127.0.0.1:57047
+1687569078288	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lj/hz6wjd_s0cqclv02cy81gqxc0000gn/T/rust_mozprofilej2TQ2S"
+1687569079186	Marionette	INFO	Marionette enabled
+1687569079300	Marionette	INFO	Listening on port 57055
+Read port: 57055
+WebDriver BiDi listening on ws://127.0.0.1:57048
+1687569079868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lj/hz6wjd_s0cqclv02cy81gqxc0000gn/T/rust_mozprofilej2TQ2S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57048/devtools/browser/4dfb9a21-938b-4914-8e7c-09ef1feeaf6a
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1687574401113	Marionette	INFO	Stopped listening on port 56923
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1687574404701	Marionette	INFO	Stopped listening on port 57055
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
