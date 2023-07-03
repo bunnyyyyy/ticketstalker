@@ -1,5 +1,10 @@
-timer to repeat action every 5 second
+steps to do from now:
 
-scrapes cheapest price from stubhub
+- parse response text to get the min price
+- repeat for multiple websites
+- store everything in a data frame for neatness
+- set up repeating email system:
+    - if a price is less than target, add it to invicible profile and send email
+    - keep checking, but if 5 prices are less, then stop send all and stop emailing
+    - restart checking after 5 mins, make sure that there are no repeats
 
-prints when you have a price cheaper
