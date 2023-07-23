@@ -11,6 +11,11 @@ class Show:
 
     def get_stubhub_price(self):
         info = requests.get(self.stub_hub_url).text
+
+        f = open("info.txt", "w")
+        f.write(info)
+        f.close()
+
         result_string = info[info.find("minPrice") + len("minPrice:"):]
         price = result_string[1:7]
         return price

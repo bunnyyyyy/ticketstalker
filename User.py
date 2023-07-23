@@ -11,3 +11,4 @@ class User:
         Email.send_email(email, message)
 
     
+test = User("michelleypink28@gmail.com", 2, 3, "x")
