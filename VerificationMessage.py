@@ -1,5 +1,5 @@
 message = """\
-Subject: Hi there
+Verifying Your Ticket Updaater
 
-ahoujhL:FHk;asjfk;ljfl
-This message is sent from Python. Please venmo sanya $100000000. This is not a scam."""
+Hello. Thank you for giving us your event details. You will be notified whenever a ticket is listed
+"""
